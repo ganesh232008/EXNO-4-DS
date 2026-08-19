@@ -198,4 +198,4 @@ rfe.fit(X, y)
 <img width="1106" height="638" alt="image" src="https://github.com/user-attachments/assets/0a12b3d8-e743-4062-ac95-c754e3b94b67" />
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Thus, Feature selection and Feature scaling has been used on the given dataset.
